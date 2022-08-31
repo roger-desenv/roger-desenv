@@ -3,7 +3,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roger-desenv@gmail.com)
 
   
-![Roger GitHub stats](https://github-readme-stats.vercel.app/api?username=roger-desenv&show_icons=true&theme=onedark&Color=white)
+![Roger GitHub stats](https://github-readme-stats.vercel.app/api?username=roger-desenv&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roger-desenv&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
