@@ -1,5 +1,5 @@
 ### Seja Bem-Vindo!✌️
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roger-desenv@gmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roger.desenv@gmail.com)
 
   
 ![Roger GitHub stats](https://github-readme-stats.vercel.app/api?username=roger-desenv&show_icons=true&theme=noctis_minimus)
